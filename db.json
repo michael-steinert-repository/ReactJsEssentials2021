@@ -1,0 +1,17 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Todo1",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Todo3",
+      "reminder": false
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
